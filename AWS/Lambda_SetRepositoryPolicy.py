@@ -31,4 +31,3 @@ def lambda_handler(event, context):
 	)
 	
 	print("response: " + response)
-출처: https://baekji919.tistory.com/entry/AWS-EventBridge-Lambda를-활용하여-Elastic-Container-RegistryECR-레포지토리-policy-추가-자동화하기 [오늘도 한 뼘 더:티스토리]
